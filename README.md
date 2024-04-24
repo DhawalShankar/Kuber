@@ -1,4 +1,4 @@
-# Kuber
+# Kuber - The Trading Software Model
 ## Invest Right! Live Bright!
 Kuber is a revolutionary stock market platform meticulously crafted to offer users a transformative and seamless trading journey. With many features, it empowers users to manage investments, execute trades, and stay abreast of market trends.
 ## Key Features
